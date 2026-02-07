@@ -174,7 +174,7 @@ command: {
 ## 🌐 Saluran Resmi
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbB37bgBfxoAmAlsgE0t">
+  <a href="https://whatsapp.com/channel/0029Vb6n7DW9WtC4ybYeXb3B">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
   </a>
   <a href="https://panzzstore.web.id">
@@ -224,3 +224,4 @@ Proyek ini dilisensikan di bawah **ISC License**.
 <p align="center">
   <b>⭐ Jangan lupa kasih star ya! ⭐</b>
 </p>
+
